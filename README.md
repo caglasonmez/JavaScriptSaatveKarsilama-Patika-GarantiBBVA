@@ -1,0 +1,2 @@
+# JavaScriptSaatveKarsilama-Patika-GarantiBBVA
+JavaScriptSaatveKarsilama-Patika-GarantiBBVA
